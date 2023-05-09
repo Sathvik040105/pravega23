@@ -19,7 +19,9 @@
     <div class = "intro-content">
         <br><br>
         <h1>Bad AdHoc Hypothesis</h1><br>
-        <p>Some stuff to look out for</p>
+	<div class = "int">
+        <p>Bad Adhoc Hypothesis is a celebration of clear logical thinking and creativity. Join us for a fun, refreshing event and present your whacky ideas and stand a chance to win exciting prizes and working in the labs
+	</p></div>
     </div>
     <div class = "intro-image">
         <img src = "/src/components/scitech/Bad_Ad_Hoc_Hypotheses.jpg" alt = "scitech" width = "115%" height="100%">

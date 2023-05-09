@@ -7,7 +7,7 @@
 
 <div class = "content-stuff">  
 
-<div class = "scitech-navbar">
+<div class = "scitech-navbar" style="font-size: x-large;">
   <ul>
     <li><a href="#news">Rules</a></li>
     <li><a href="#contact">Sample Questions</a></li>
@@ -19,21 +19,21 @@
     <div class = "intro-content">
         <br><br>
         <h1>Bad AdHoc Hypothesis</h1><br>
-        <p>Some stuff to look out for a exciting thing</p>
+        <p>Some stuff to look out for</p>
     </div>
     <div class = "intro-image">
-        <img src = "/img/scitech/sample1.png" alt = "scitech" width = "100%">
+        <img src = "/src/components/scitech/Bad_Ad_Hoc_Hypotheses.jpg" alt = "scitech" width = "115%" height="100%">
     </div>
 </div>
     
 <div class = "declaration">
     <div class = "big-text" style="background-color: #ebf234;">
-            <h1>Don't miss out on <br> IISc's Premier Chemistry Event</h1>
+            <h1>Don't miss out on <br> IISc's Premier Bad AdHoc Hypothesis Event</h1>
     </div>
-    <div class = "small-text" style="background-color: #ebf234;">
-            <p>This is a unique opportunity for any chemistry enthusiast to showcase their problem-solving ability and insight in the subject. The prelims is knocking at the door and this will serve as a gateway to the main Chemenigma event!<br>
+    <div class = "medium-text" style="background-color: #ebf236; font-size: xx-large;">
+            <p>In the prelims, contestants have to submit a concise alpha presentation, a rough sketch of their concept as well as a teaser trailer via email. Participants are encouraged to have a look at the BAH Youtube channel for an idea.<br>
 
-<br>The Final event will truly bring out the Enigma of Chemenigma. The finalists would have to work their way through challenging problems in India's finest research labs with the exciting opportunity to present and defend their work in front of leading Chemists in the panel of judges!
+<br> The finals will involve some out-of-the-box, funky presentations at the IISc Campus. See ya there!
 
 <br> Do you have what it takes to be in the Finals?</p>
     </div>    
@@ -41,28 +41,22 @@
 
 <div class = "details">
     <div class = "img">
-        <img src = "/img/scitech/sample2.png" alt = "scitech">
+        <img src = "/img/scitech/Bad adhoc.png" alt = "scitech" >
     </div>
     <div class = "text">
-        <div class = "timeline">
+        <div class = "timeline" style="font-size: larger;">
             <h1>Timeline</h1><br>
-            <p> I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-                Just click “Edit Text” or double click me to add your own content and make changes to the font. 
-                I’m a great place for you to tell a story and let your users know a little more about you.
+            <p> Prelims submission till 4th week of August
             </p><br>
         </div>
-        <div class = "eligibility">
+        <div class = "eligibility" style="font-size: larger;">
             <h1>Eligibility</h1><br>
-            <p> I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-                Just click “Edit Text” or double click me to add your own content and make changes to the font. 
-                I’m a great place for you to tell a story and let your users know a little more about you.
+            <p> Anyone with a creative mind and a penchant for science is welcome to participate.
             </p><br>
         </div>
-        <div class = "prizes">
+        <div class = "prizes" style="font-size: larger;">
             <h1>Prizes</h1><br>
-            <p> I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-                Just click “Edit Text” or double click me to add your own content and make changes to the font. 
-                I’m a great place for you to tell a story and let your users know a little more about you.
+            <p> 15k for the winners
             </p>
         </div>
     </div>    
@@ -70,9 +64,7 @@
 <div class = "coord-intro">
     <h1>Our Coordinators</h1><br>
 
-    <p> I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-        Just click “Edit Text” or double click me to add your own content and make changes to the font. 
-        I’m a great place for you to tell a story and let your users know a little more about you.</p><br>
+    <p style = "color: purple; font-size: 1.5vw;;"> Meet our wonderful coordinators. They are your first point of contact for all event related questions! Don't hesitate to email them at anytime.They will try their best to reply as soon as possible. <span style="color: blue"> Email: bah.pravega@gmail.com</span> </p><br>
 </div>
 
 
@@ -82,41 +74,60 @@
     
         <div class = "coord">
             <div class = "coord-img">
-                <img src = "/img/scitech/camelia_photo_chemenigma.jpg" alt = "scitech" height = "120%" width="35%">
+                <img src = "/img/scitech/Parvathy.jpg" alt = "scitech" height = "120%" width="35%">
             </div>
             <div class = "coord-text">
-                <h1>Some coord</h1>
-                <p>Some stuff</p>
+                <h1>Parvathy S Kumplayil</h1>
             </div>
         </div>
         <div class = "coord">
             <div class = "coord-img">
-                <img src = "/img/scitech/priyanshu_photo_chemenigma.jpeg.jpg" alt = "scitech" height = "100%" width="45%">
+                <img src = "/img/scitech/Diya.jpg" alt = "scitech" height = "100%" width="45%">
             </div>
             <div class = "coord-text">
-                <h1>Some coord</h1>
-                <p>Some stuff</p>
+                <h1>Diya Sarkar</h1>
             </div>
         </div>
-        <div class = "coord">
-            <div class = "coord-img">
-                <img src = "/img/scitech/camelia_photo_chemenigma.jpg" alt = "scitech" height = "50%" width = "35%">
-            </div>
-            <div class = "coord-text">
-                <h1>Some coord</h1>
-                <p>Some stuff</p>
-            </div>
-    </div>
+        
+    
 </div>
 
 <div class = "quote">
     <div class = "quote-text" style="font-family: 'Times New Roman', Times, serif;">
-        <p> "I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-            Just click “Edit Text” or double click me to add your own content and make changes to the font. 
-            I’m a great place for you to tell a story and let your users know a little more about you."
+        <p> Take a step back from the seriousness of science and engage in some light-hearted logical discussions.
         </p>
     </div>  
 </div>
+
+<div class ="rules" id = "news" style="margin-left: 2vw; font-size: 1.2vw;">
+    <br><br>
+    <div class = "big-text-2" style="width:100vw;">
+            <h1><u>Rules</u></h1>
+    </div>
+<h1> Prelims: </h1><p>
+
+1. Contestants have to submit a concise alpha presentation, a rough sketch of their concept as well as a teaser trailer via email (bah.pravega@gmail.com) </p><p>
+
+2. The teaser trailer should be a 2-3 minute video showcasing the hypothesis and can utilize the same PowerPoint presentation. The audio and video quality must be clear, crisp and of high resolution.</p><p>
+
+3. The PowerPoint presentation can incorporate any engaging elements. As the name ‘alpha-presentation’ suggests, it’s not the final version of the presentation but at the least, it should incorporate a rough sketch of the entire hypothesis.</p><p>
+
+4. To gain inspiration, contestants can peruse the official BAH YouTube channel.</p>
+
+<h1>Finals:</h1>
+
+<p>1. In the finals, participants will have to present live in front of judges and an audience.</p>
+
+<p>2. Each finalist will have a ten-minute timeframe to deliver their presentation.</p>
+
+<p>3. An additional five minutes will be allotted for questions from the judges or audience.</p>
+
+
+</div>
+
+
+
+
 
 <div class ="hof" id = "hof">
     <br><br>
@@ -131,35 +142,16 @@
     <th>College</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Winner</td>
+    <td>Pravar Kataria</td>
+    <td>IIT Delhi</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Runner Up</td>
+    <td>Mani Gupta</td>
+    <td>Modern Vidya Niketan, Sector 17, Faridabad</td>
   </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
+
 </table>   
     </div>
 </div>
@@ -167,7 +159,10 @@
 
 
 
+
 </template>
+
+
 
 <style scoped>
 
@@ -179,7 +174,7 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #6660dd;
   text-align: left;
   padding: 8px;
 }
@@ -239,7 +234,17 @@ li a {
     align-items: center;
     text-align: center;
 }
-
+.int{
+   
+    position: relative;
+    height: 45vh;
+    width: 30vw;
+    margin-top: 5;
+    background-color: #ffffff;
+    align-items: center;
+    text-align: center;
+    left : 120px;
+}
 .intro-content{
     position: relative;
     height: 90vh;
@@ -250,8 +255,8 @@ li a {
 }
 .intro-image{
     position: relative;
-    height: 90vh;
-    width: 50vw;
+    height: 50vh;
+    width: 30vw;
     background-color: #ffffff;
     align-items: center;
     text-align: center;
@@ -283,7 +288,7 @@ li a {
     height: auto;
     width: 80vw;
     font-size: 2rem;
-    color: coral;
+    color: rgb(116, 78, 125);
     background-color: #ffffff;
     align-items: center;
     text-align: center;
@@ -322,6 +327,7 @@ li a {
 
 .details{
     display: flex;
+    font-size: large;
     flex-direction: row;
     position: relative;
     top: 10vh;
@@ -348,8 +354,8 @@ li a {
 }
 
 .details img{
-    height:90vh;
-    width:50vw;
+    height:auto;
+    width:30vw;
 }
 
 .coords{
@@ -434,7 +440,7 @@ li a {
     }
 
     .details img{
-        width: 100vw;
+        width: 0vw;
         height: auto;
         
     }
